@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="41141bd3-aa8c-4591-9285-79732bce9bfd" name="Default Changelist" comment="" />
+    <list default="true" id="41141bd3-aa8c-4591-9285-79732bce9bfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chuck-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/joke/JokeappApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/joke/JokeappApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/joke/config/ChuckConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/joke/config/ChuckConfiguration.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -29,6 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Spring Boot.JokeappApplication">
     <configuration name="JokeappApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -70,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589084913596</updated>
       <workItem from="1589084920057" duration="310000" />
+      <workItem from="1589085569971" duration="505000" />
     </task>
     <servers />
   </component>
@@ -86,5 +118,44 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="915" height="280" key="GridCell.Tab.0.bottom" timestamp="1589085764177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589085764177" />
+    <state width="915" height="280" key="GridCell.Tab.0.center" timestamp="1589085764176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589085764176" />
+    <state width="915" height="280" key="GridCell.Tab.0.left" timestamp="1589085764176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589085764176" />
+    <state width="915" height="280" key="GridCell.Tab.0.right" timestamp="1589085764177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589085764177" />
+    <state width="915" height="280" key="GridCell.Tab.1.bottom" timestamp="1589085764179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="280" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589085764179" />
+    <state width="915" height="280" key="GridCell.Tab.1.center" timestamp="1589085764178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="280" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589085764178" />
+    <state width="915" height="280" key="GridCell.Tab.1.left" timestamp="1589085764178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="280" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589085764178" />
+    <state width="915" height="280" key="GridCell.Tab.1.right" timestamp="1589085764178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="280" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589085764178" />
+    <state x="1102" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1589085833433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1102" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589085833433" />
   </component>
 </project>
